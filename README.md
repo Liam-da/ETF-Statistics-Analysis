@@ -3,12 +3,12 @@
 This project analyzes weekly return data from a selection of Exchange Traded Funds (ETFs) using Python.  
 The analysis includes descriptive statistics, distribution assessment, portfolio optimization, and inference using confidence intervals.
 
-## 📊 Dataset
+##  Dataset
 - Weekly ETF returns from 2006–2015  
 - 454 observations for each ETF  
 - ETFs analyzed: **AGG**, **VAW**, **IWN**, **SPY**
 
-## 🔍 Project Components
+## Project Components
 ### 1. Descriptive Statistics
 - Summary statistics for weekly returns  
 - Density plots and boxplots  
@@ -30,4 +30,3 @@ The analysis includes descriptive statistics, distribution assessment, portfolio
 - 95% confidence intervals for expected weekly returns  
 - Interpretation of uncertainty and volatility
 
-## 📁 Repository Structure
